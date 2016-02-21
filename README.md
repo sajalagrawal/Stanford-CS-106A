@@ -3,7 +3,7 @@ Hello All,
 
 This is the new github repository where I will be posting the solutions that I come up with for the Stanford CS 106A course.  
 
-Thanks
+Thanks,
 Sajal Agrawal
 
 ATTENTION:  STANFORD STUDENTS
