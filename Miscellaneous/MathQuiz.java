@@ -88,7 +88,8 @@ public class MathQuiz extends ConsoleProgram{
 		println("You gave "+score+" answers right out of "+NUM_QUESTIONS);
 	}
 	
-	/*Method for printing congratulatory message if 
+	/*
+	 *Method for printing congratulatory message if 
 	 * the student gives the correct answer.
 	 */
 	private String CongratulatoryMsg(){
