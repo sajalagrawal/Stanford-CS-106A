@@ -278,7 +278,7 @@ public class Breakout extends GraphicsProgram {
 			if(ball.getY()<=getHeight()-PADDLE_Y_OFFSET-PADDLE_HEIGHT-BALL_RADIUS*2){
 				//increasing the horizontal velocity of the ball the seventh time it hits the paddle,
 				if(counter==7){
-					vx=1*vx;
+					vx=*vx;
 					counter=0;
 				}
 				vy=-vy;
